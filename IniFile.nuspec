@@ -11,7 +11,7 @@
     <iconUrl>https://static.bbls.co/misc/IniFile.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Initial version.</releaseNotes>
+    <releaseNotes>Compatibility with .Net 4.0</releaseNotes>
     <copyright>Copyright 2019</copyright>
   </metadata>
 </package>
